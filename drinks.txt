@@ -1,0 +1,18 @@
+espresso
+    50ml water
+    18g coffee
+latte
+    200ml water
+    24g coffee
+    150ml milk
+cappuccino
+    250ml water
+    24g coffee
+    100ml milk
+
+1. print report
+2. check resources for drinking
+3. process coins
+4. check transaction success
+5. make coffee
+6. manage resources?
